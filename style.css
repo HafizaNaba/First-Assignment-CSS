@@ -1,0 +1,112 @@
+*{
+  background-color: rgb(169, 183, 184);
+}
+
+@font-face {
+    font-family: "Angelos";
+    src: url(font/Angelos.ttf);
+}
+@font-face {
+    font-family:"Parisienne-Regular" ;
+    src: url(font/Parisienne-Regular.ttf);
+}
+@font-face {
+    font-family:"Babyboy.otf";
+    src: url(font/Babyboy.otf);
+}
+h1{
+ font-family: "Angelos";
+ font-size: 40px;
+ text-align: center;
+color: beige;
+background-color:rgb(11, 46, 46) ;
+padding: 5px;
+
+
+}
+.box{
+    font-style: italic;
+    text-align: center;
+    color: rgb(25, 78, 29);
+    line-height: 150%;
+    
+}
+.one{
+    text-align: center;
+}
+.two{
+    height: 350px;
+    width: 400px;
+   border-radius: 20px 0px 20px 0px;
+   border-width: 10px;
+      border-style: solid;
+        border-color: rgb(11, 46, 46);
+}
+.four{
+    font-family: "Parisienne-Regular";
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+       color: rgb(25, 78, 29);
+}
+.five{
+    height: 400px;
+    width: 400px;
+     border-radius: 20px 0px 20px 0px;
+     border-style: solid;
+     border-width: 10px;
+       border-color: rgb(11, 46, 46);
+}
+.six{
+    text-align: center;
+}
+.seven{
+    font-family: "Parisienne-Regular";
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+       color: rgb(25, 78, 29);
+}
+.eight{
+    text-align: center;
+}
+.nine{
+    height: 450px;
+    width: 400px;
+     border-radius: 20px 0px 20px 0px;
+    border-style: solid ;
+    border-width: 10px;
+   border-color: rgb(11, 46, 46);
+  
+}
+.ten{
+  font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+       color: rgb(25, 78, 29);
+        font-family: "Parisienne-Regular";
+}
+h3{
+    text-transform: capitalize;
+     color: rgb(252, 252, 252);
+     background-color: rgb(11, 46, 46);
+     padding: 5px;
+     font-size: 40px;
+     font-weight: 700;
+       font-family:"Babyboy.otf";
+       letter-spacing: 3px;
+    
+}
+ul{
+    color: rgb(1, 0, 8);
+}
+button{
+    padding: 3px;
+   color: black;
+    background-color: white;
+}
+button:hover{
+    
+  color: white;
+    background-color: black;
+}
